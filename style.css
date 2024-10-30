@@ -1,0 +1,129 @@
+/* Foodieland header */
+.foodieland {
+    color: black;
+    font-size: 24px;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.foodieland-highlight {
+    color: #FF7426;
+}
+
+/* Navigation Links */
+.nav-link {
+    color: black;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+/* Main Title */
+.main-title {
+    color: black;
+    font-size: 64px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+/* Subtitle */
+.subtitle {
+    color: rgba(0, 0, 0, 0.60);
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    line-height: 28px;
+    word-wrap: break-word;
+}
+
+/* Name and Date */
+.name {
+    color: black;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.date,
+.time,
+.category {
+    color: rgba(0, 0, 0, 0.60);
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+/* Recipe View Button */
+.view-recipes {
+    color: white;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+/* Hot Recipes Tag */
+.hot-recipes {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+/* Category Links */
+.category-link {
+    color: black;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+/* Section Titles */
+.section-title {
+    color: black;
+    font-size: 48px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+/* Small Subtitles */
+.small-subtitle {
+    color: rgba(0, 0, 0, 0.60);
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+/* Card Titles */
+.card-title {
+    color: black;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+/* Footer Text */
+.footer-text {
+    color: #262626;
+    font-size: 10.05px;
+    font-family: 'SF Pro Text', sans-serif;
+    font-weight: 400;
+    line-height: 13.92px;
+    word-wrap: break-word;
+}
+
+/* Footer Highlight Text */
+.footer-highlight {
+    font-weight: 600;
+}
